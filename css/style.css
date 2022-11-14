@@ -1,6 +1,8 @@
 div#coming-soon {
     text-align: center;
     font-family: sans-serif;
-    margin-top: auto;
-    margin-left: auto;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+
 }
